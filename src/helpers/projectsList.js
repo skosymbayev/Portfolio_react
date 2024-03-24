@@ -25,21 +25,18 @@ const projects = [
         skills: 'React Native',
         img: '/src/assets/img/projects/04.jpg',
         imgBig: '/src/assets/img/projects/04-big.jpg',
-        gitHubLink: 'https://github.com'
     },
     {
         title: 'Landing',
         skills: 'HTML, CSS, JS',
         img: '/src/assets/img/projects/05.jpg',
         imgBig: '/src/assets/img/projects/05-big.jpg',
-        gitHubLink: 'https://github.com'
     },
     {
         title: 'Gaming community',
         skills: 'React, PHP, MySql',
         img: '/src/assets/img/projects/06.jpg',
         imgBig: '/src/assets/img/projects/06-big.jpg',
-        gitHubLink: 'https://github.com'
     },
 ]
 
