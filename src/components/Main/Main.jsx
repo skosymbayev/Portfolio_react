@@ -1,6 +1,6 @@
 import './style.css';
 
-const Header = () => {
+const Main = () => {
     return (
         <header className="header">
             <div className="header__wrapper">
@@ -17,4 +17,4 @@ const Header = () => {
     )
 }
 
-export default Header;
+export default Main;

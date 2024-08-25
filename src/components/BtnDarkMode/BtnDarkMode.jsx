@@ -1,6 +1,6 @@
 import {useEffect, useRef} from 'react';
 import detectDarkMode from '@/utils/detectDarkMode';
-import {useLocalStorage} from '@/utils/useLocalStorage';
+import {useLocalStorage} from '@/hooks/useLocalStorage';
 
 import './style.css';
 

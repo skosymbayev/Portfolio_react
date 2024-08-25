@@ -22,7 +22,6 @@ const Projects = () => {
                     </div>
 
                     {project.gitHubLink && <BtnGitHub link={project.gitHubLink} />}
-                    
 
                 </div>
             </div>
